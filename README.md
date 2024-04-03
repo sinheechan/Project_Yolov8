@@ -14,7 +14,8 @@ Yolov8을 활용한 이미지, 동영상 인식 프로그램 구현
 
 - Dataset
 - my_seg : yolo segment predict model
-- 
+- .ipynb : Working Flow
+- .test : Visual Studio test environment
 
 ## Version
 
