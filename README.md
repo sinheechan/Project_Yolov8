@@ -8,7 +8,7 @@ Yolov8을 활용한 이미지, 동영상 인식 프로그램 구현
 
 ## Libraries used
 - yolo segment
-- 
+- yaml
 
 ## File explanation
 
