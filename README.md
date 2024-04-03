@@ -15,3 +15,11 @@ Yolov8을 활용한 이미지, 동영상 인식 프로그램 구현
 - Dataset
 - my_seg : yolo segment predict model
 - 
+
+## Version
+
+- python 3.12.2
+- numpy 1.26.4
+- pandas 2.2.1
+- opencv-python 4.9.0.80
+- ultralytics 8.1.19
