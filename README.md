@@ -24,3 +24,5 @@ Yolov8을 활용한 이미지, 동영상 인식 프로그램 구현
 - pandas 2.2.1
 - opencv-python 4.9.0.80
 - ultralytics 8.1.19
+
+## Result
