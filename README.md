@@ -1,9 +1,14 @@
 # Project_Yolov8
-Yolov8을 활용한 이미지, 동영상 인식 프로그램 구현한다.
+Yolov8을 활용한 이미지, 동영상 인식 프로그램 구현
 
-더불어, 기존 Yolo 단순 실행 시 인식 정확도에 기반하여 성능향상을 위한 테스트를 진행한다.  
+<br /><br /> 
+<img src="image/car_result.png">
+<br /><br /> 
+<img src="image/rps_result.png">
 
 ## Object
+
+더불어, 기존 Yolo 단순 실행 시 인식 정확도에 기반하여 성능향상을 위한 테스트를 진행한다.  
 
 ## Dataset
 - car : [roboflow] https://universe.roboflow.com/ds/Hxie9vewYe?key=hbcFa5gtFP
