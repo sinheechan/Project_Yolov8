@@ -6,6 +6,8 @@ Yolov8을 활용한 이미지, 동영상 객체 감지 모델 구현
 <br /><br /> 
 <img src="image/rps_result.png">
 
+<br /> 
+
 ## Object
 
 Yolov8 모델을 활용하여 개발된 차량 데이터셋 이미지와 동영상을 실시간으로 인식하는 프로그램입니다. 
@@ -14,13 +16,19 @@ Yolov8 모델을 활용하여 개발된 차량 데이터셋 이미지와 동영�
 
 더불어, 기존 Yolo 단순 실행 시 인식 정확도에 기반하여 성능향상을 위한 테스트를 진행합니다.
 
+<br /> 
+
 ## Dataset
 - car : [roboflow] https://universe.roboflow.com/ds/Hxie9vewYe?key=hbcFa5gtFP
 - rps : [roboflow] https://public.roboflow.com/ds/orVECZFnvV?key=sDLGP3XRMk 
 
+<br /> 
+
 ## Libraries used
 - yolo segment
 - yaml
+
+<br /> 
 
 ## File explanation
 
@@ -29,6 +37,8 @@ Yolov8 모델을 활용하여 개발된 차량 데이터셋 이미지와 동영�
 - .ipynb : Working Flow
 - .test : Visual Studio test environment
 
+<br /> 
+
 ## Version
 
 - python 3.12.2
@@ -36,6 +46,8 @@ Yolov8 모델을 활용하여 개발된 차량 데이터셋 이미지와 동영�
 - pandas 2.2.1
 - opencv-python 4.9.0.80
 - ultralytics 8.1.19
+
+<br /> 
 
 ## Result
 
